@@ -1,6 +1,6 @@
 # Awesome BG3  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="./media/bg3-logo.png" align="center" width="100" />](https://baldursgate3.game/)
+<p align="center"><a href="https://baldursgate3.game/" align="center"><img src="./media/bg3-logo.png" align="center" width="60%" ></a></p>
 
 > A curated list of awesome tools, tutorials, and resources for [Baldur's Gate 3](https://baldursgate3.game/).
 
